@@ -1,0 +1,76 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    margin: 0;
+
+    background-color: #111;
+
+    color: #fff;
+
+}
+
+
+
+header {
+
+    text-align: center;
+
+    padding: 40px;
+
+    background-color: #000;
+
+}
+
+
+
+h1 {
+
+    margin: 0;
+
+}
+
+
+
+.about, .projects {
+
+    padding: 20px;
+
+}
+
+
+
+.project {
+
+    background-color: #1c1c1c;
+
+    padding: 15px;
+
+    margin-top: 10px;
+
+    border-radius: 8px;
+}
+section {
+
+    margin-bottom: 40px; 20px;  
+
+}
+h2 {
+
+    margin-top: 10px;
+
+}
+h1, h2 {
+
+    font-size: 40px;
+
+}
+.project:hover {
+    background-color: #bd5120;
+    transition: 0.03s;
+}
+
+body {
+    max-width: 900px;
+    
+}
